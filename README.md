@@ -39,5 +39,5 @@ This project was built to understand how Python applications interact with **RES
 
 ---
 
-## 📁 Project Structure
+
 
