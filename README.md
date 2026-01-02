@@ -25,7 +25,6 @@ This project was built to understand how Python applications interact with **RES
 - JSON parsing
 - Error handling
 - Modular code structure
-- Environment/config separation
 
 ---
 
