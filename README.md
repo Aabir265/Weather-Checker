@@ -12,7 +12,6 @@ This project was built to understand how Python applications interact with **RES
 - Displays:
   - Temperature (°C)
   - Humidity (%)
-  - Wind speed (m/s)
   - Weather condition
 - Uses real-time API data
 - Clean and modular Python code
